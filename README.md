@@ -53,23 +53,6 @@ Usage
     Enter a search query in the input field and click "Search" to get results from the Exa API.
     Click "Search on Google" to perform a Google search with the entered query.
 
-Folder Structure
-
-search_app/
-├── app.py
-├── requirements.txt
-├── .env
-├── templates/
-│   └── index.html
-└── static/
-    ├── styles.css
-    └── script.js
-
-    app.py: Main Flask application file.
-    requirements.txt: Lists project dependencies.
-    .env: Stores environment variables.
-    templates/: Contains HTML files.
-    static/: Contains CSS and JavaScript files.
 
 Contributing
 
