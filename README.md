@@ -55,8 +55,6 @@ Usage
 
 Folder Structure
 
-plaintext
-
 search_app/
 ├── app.py
 ├── requirements.txt
