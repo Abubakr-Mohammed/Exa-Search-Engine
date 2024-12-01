@@ -10,7 +10,7 @@ Features
 
 Tech Stack
 
-    Backend: Flask
+    Backend: Flask, Python
     Frontend: HTML, CSS, JavaScript
     API: Exa API
     Package Manager: pip
